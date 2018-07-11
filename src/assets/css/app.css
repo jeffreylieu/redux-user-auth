@@ -22,7 +22,7 @@ body {
 }
 
 .app h1 {
-    color: #61DAFB;
+    color: red;
     font-size: 5em;
     letter-spacing: 5px;
     margin: 0.16em;
